@@ -22,7 +22,7 @@ permalink: /ranked-tasks/
     <th>Low Rating</th>
   </tr>
   <tr>
-    <td>1. PAY EASILY</td>
+    <td>1. EXCLUSIVE DEALS</td>
     <td>7.8</td>
     <td>9.9</td>
     <td>6.5</td>
@@ -41,37 +41,37 @@ permalink: /ranked-tasks/
     <td>4.5</td>
   </tr>
   <tr>
-    <td>4.SNOW REPORT</td>
+    <td>4.SNOW/WEATHER REPORTS</td>
     <td>9.1</td>
     <td>9.9</td>
     <td>4.3</td>
   </tr>
   <tr>
-    <td>5. WHAT TO DO</td>
+    <td>5. TRAFFIC REPORTS</td>
     <td>8.6</td>
     <td>10</td>
     <td>6.9</td>
   </tr>
   <tr>
-    <td>6.CONCIERGE</td>
+    <td>6.CONCIERGE SERVICES</td>
     <td>8.1</td>
     <td>10</td>
     <td>4.5</td>
   </tr>
   <tr>
-    <td>7. PLANNING</td>
+    <td>7. RENTAL ASSISTANCE</td>
     <td>7.1</td>
     <td>9.3</td>
     <td>5.4</td>
   </tr>
   <tr>
-    <td>8. LOCAL NEWS</td>
+    <td>8. LOCAL EVENTS</td>
     <td>7.8</td>
     <td>9.1</td>
     <td>6.3</td>
   </tr>
   <tr>
-    <td>9. SPECIAL DETAILS</td>
+    <td>9. SPECIAL ATTENTION TO DETAILS</td>
     <td>7.4
 </td>
     <td>9.3
@@ -82,7 +82,7 @@ permalink: /ranked-tasks/
 </td>
   </tr>
   <tr>
-    <td>10. Price</td>
+    <td>10. PRICE/VALUE</td>
     <td>8.4</td>
     <td>9.2</td>
     <td>6.1</td>
@@ -103,11 +103,10 @@ permalink: /ranked-tasks/
 <li> Dinner Restaurant Reservations</li>
 <li> Lunch take-out</li>
 <li> Ride to Resort </li>
-<li> Lift and Shift furniture</li>
-<li> Home cleaning</li>
+<li> Cleaning</li>
 <li> Ride from resort</li>
-<li> skiis brough to airport</li>
-<li> Furniture Assembly</li>
+<li> Skiis brough to airport</li>
+<li> Change Chains</li>
 <li> Drop off car at mechanic</li>
 <li> Arrange group ski rental</li>
 <li> Reno Shuttle arranged</li>
@@ -116,7 +115,7 @@ permalink: /ranked-tasks/
 <li> Breakfast reservations</li>
 <li> AirBnB arranged</li>
 <li> Dog sitter arranged</li>
-<li> met UPS at house to bring in delivery</li>
+<li> Met UPS at house to bring in delivery</li>
 <li> Fedex drop-off</li>
 <li> Mail Pick-up </li>
 <li> Arrange Snow Removal</li>
@@ -125,11 +124,9 @@ permalink: /ranked-tasks/
 <li> Meet Amazon Prime delivery</li>
 <li> Dog taken to vet</li>
 <li> Arrange baby-sitter from Care.com</li>
-<li> Pick up Meds from Safeway Pharmacy</li>
-<li> DMV submittal</li>
-<li> Insurance  </li>
+<li> Pick up Meds from Pharmacy</li>
 <li> Buy lift tickets</li>
-<li> Change to snow tires</li>
+<li> Change snow tires</li>
 
 </ol>
 
