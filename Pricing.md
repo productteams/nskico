@@ -41,7 +41,7 @@ permalink: /pricing/
 <div class="columns">
   <ul class="price">
     <li class="header">Season Pass</li>
-    <li class="grey">$ 179 / 12 months</li>
+    <li class="grey">$ 179 / Dec-April</li>
     <li>Dedicated Concierge</li>
     <li>Plan Your Season services</li>
     <li>VIP Rental Services </li>
