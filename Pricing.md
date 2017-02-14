@@ -23,7 +23,7 @@ permalink: /pricing/
 <div class="columns">
   <ul class="price">
     <li class="header" style="background-color:#4CAF50">SkiWeek Pass</li>
-    <li class="grey">$ 59/ season</li>
+    <li class="grey">$ 59/ week</li>
     <li>Dedicated Concierge</li>
     <li>Ski Storage</li>
     <li>VIP Event Access </li>
